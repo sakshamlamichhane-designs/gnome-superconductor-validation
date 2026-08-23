@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as follows."
+authors:
+  - family-names: "Lamichhane"
+    given-names: "Saksham"
+title: "GNoME-derived Superconductivity: Preliminary First-Principles Validation"
+version: 1.0.0
+date-released: 2026-08-23
+url: "https://github.com/sakshamlamichhane-designs/gnome-superconductor-validation"
+license: MIT

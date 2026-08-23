@@ -1,0 +1,10 @@
+&inputph
+  prefix = 'mgb2'
+  outdir = './out'
+  ldisp = .true.
+  nq1 = 2
+  nq2 = 2
+  nq3 = 2
+  recover = .false.
+  fildyn = 'mgb2.dyn'
+/

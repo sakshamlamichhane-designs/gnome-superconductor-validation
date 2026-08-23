@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# QE outputs
+*.out
+*.log
+*.wfc*
+*.save*
+_ph0/
+out/
+*.pwo
+*.dyn
+*.fc
+*.freq
+*.gp
+*.xml
+*.png
+*.jpg
+*.jpeg
+
+# Large files
+*.tar.gz
+*.zip
+*.CIF
+*.UPF
+*.psml
+*.h5
+*.hdf5
+
+# Temporary
+*.tmp
+*.swp
+*.swo
+.DS_Store

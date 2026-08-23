@@ -1,0 +1,33 @@
+&CONTROL
+  calculation = 'scf'
+  prefix = 'mgb2'
+  outdir = './out'
+  pseudo_dir = '../pseudos'
+/
+&SYSTEM
+  ibrav = 0
+  nat = 3
+  ntyp = 2
+  ecutwfc = 60.0
+  ecutrho = 480.0
+  occupations = 'smearing'
+  smearing = 'mp'
+  degauss = 0.02
+/
+&ELECTRONS
+  conv_thr = 1.0d-8
+  mixing_beta = 0.7
+/
+ATOMIC_SPECIES
+ Mg  24.305  mg_pbe_v1.4.uspp.F.UPF
+ B   10.81   B_pbe_v1.01.uspp.F.UPF
+CELL_PARAMETERS angstrom
+ 3.00 0.00 0.00
+ 0.00 3.00 0.00
+ 0.00 0.00 3.50
+ATOMIC_POSITIONS crystal
+ Mg  0.00 0.00 0.00
+ B   0.333333 0.666667 0.50
+ B   0.666667 0.333333 0.50
+K_POINTS automatic
+ 8 8 8 0 0 0
