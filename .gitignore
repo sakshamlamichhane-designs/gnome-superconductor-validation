@@ -24,6 +24,8 @@ out/
 *.freq
 *.gp
 *.xml
+
+# Images (keep only the ones we explicitly add)
 *.png
 *.jpg
 *.jpeg
@@ -42,3 +44,7 @@ out/
 *.swp
 *.swo
 .DS_Store
+
+# CSVs (keep only curated ones)
+relaxation_results.csv
+varcell_relax_results.csv

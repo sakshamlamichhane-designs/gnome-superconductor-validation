@@ -12,14 +12,14 @@ structures.
 
 | Component | Status | Notes |
 |-----------|--------|-------|
-| SCF | [x] Completed | Converged to -130.58 Ry |
+| SCF | [x] Completed | Converged to -130.5837 Ry |
 | DFPT | [x] Diagnostic stage | Negative branches present |
 | EPW | [ ] Under debugging | Not yet validated |
 
 ## Files
 
 - `inputs/` – Input files for SCF, ph.x, and EPW
-- `scripts/` – Post-processing scripts
+- `scripts/` – Post-processing scripts (to be added)
 - `figures/` – Plots and visualizations
 - `RESULTS.md` – Detailed results and analysis
 

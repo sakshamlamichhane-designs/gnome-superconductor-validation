@@ -10,7 +10,7 @@ in the dispersion plot.
 Numerical/convergence or setup issue.
 
 ### Tests performed
-- SCF convergence: checked
+- SCF convergence: checked (converged to -130.58 Ry)
 - Cutoff variation: not yet systematically tested
 - q-grid variation: pending
 - Pseudopotential variation: pending

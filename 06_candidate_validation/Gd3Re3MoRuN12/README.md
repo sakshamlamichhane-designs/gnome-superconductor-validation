@@ -5,10 +5,12 @@ Primary candidate from the GNoME screening.
 ## Structure
 
 - Formula: Gd3Re3MoRuN12
+- Material ID: 93b91a9ce5
 - Space group: Ia-3 (original and relaxed)
 - Atoms: 80 per unit cell
 - Volume: 1056.27 Å³ (initial), 1028.79 Å³ (CHGNet relaxed)
 - Volume change: -2.60%
+- Lattice vectors: see structure data
 
 ## Status
 
@@ -19,9 +21,9 @@ Primary candidate from the GNoME screening.
 
 ## Inputs
 
-- `inputs/vc-relax.in` – variable-cell relaxation input
-- `inputs/scf.in` – SCF input
-- `inputs/ph.in` – phonon input
+- `inputs/vc-relax.in` – variable-cell relaxation input (to be added)
+- `inputs/scf.in` – SCF input (to be added)
+- `inputs/ph.in` – phonon input (to be added)
 
 ## Outputs
 
