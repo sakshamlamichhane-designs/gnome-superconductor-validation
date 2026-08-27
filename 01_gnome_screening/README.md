@@ -40,3 +40,7 @@ Initial filtering of the GNoME dataset to identify candidate structures for supe
 
 The screening did not calculate Tc or claim to prove superconductivity.
 It is a structure-discovery step, not a physics prediction.
+
+## Units
+
+- `energy` values are in **eV per formula unit** (from GNoME).
